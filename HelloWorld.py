@@ -1,6 +1,6 @@
 print("Hello World")
 string1 = "Hey sexy "
-string2 = "its time to code you dumb bitch"
+string2 = "its time to code you dummy"
 
 print(string1 + string2)
 

@@ -9,7 +9,7 @@ num1, num2 = input("enter these values smart person").split()
 print("the first number", num1)
 print("the second number", num2)
 
-# comment dat bitch OUT
+# comment dat respectable woman OUT
 
 print("Please enter a number between 1 and 100, either less or more than 50")
 
