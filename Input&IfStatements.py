@@ -25,3 +25,5 @@ else:
 print("program done thanks for playing")
 
 #ddddd
+
+print("now i know git completely works for my input if statements")
