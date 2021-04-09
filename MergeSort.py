@@ -1,4 +1,4 @@
-# MergeSort.py
+# MergeSort by Peter Mascherin
 import random
 
 def printArray(array):
